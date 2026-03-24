@@ -1,5 +1,9 @@
 # 🚀 NebulaGuard  
-> Android VPN-клиент для VLESS / Xray / современных протоколов
+> Android VPN-клиент для VLESS / Xray / современных протоколов  
+
+<p align="center">
+  <img src="assets/preview.png" alt="NebulaGuard Preview" width="100%">
+</p>
 
 ---
 
